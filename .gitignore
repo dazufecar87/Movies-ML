@@ -1,0 +1,8 @@
+*.tar
+*.pdf
+Lectures
+movies.py
+JupyterNotebookFiles/images
+JupyterNotebookFiles/.ipynb_checkpoints
+JupyterNotebookFiles/.code-workspace.code-workspace
+JupyterNotebookFiles
